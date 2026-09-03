@@ -1,4 +1,4 @@
-# Smart Home Raspberry Pi
+# HaNoi FireWatch AI
 
 Du an dieu khien nha thong minh bang Raspberry Pi. File chinh la
 `smarthome.py`, dung de doc cam bien, hien thi trang thai len LCD va dieu
